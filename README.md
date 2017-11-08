@@ -41,4 +41,4 @@ You will find:
 ## How to run the game
 
 You can clone it or zip it, so to play the game you have to run the index.html in your browser or
-you can play using this link.
+you can play using this link: https://bmcorey.github.io/froggersouls/
